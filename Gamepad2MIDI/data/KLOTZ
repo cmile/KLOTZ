@@ -1,0 +1,15 @@
+KLOTZ
+B13u15	Button13u15	3	SLIDER	Y Axis	0	1.0	0.0
+B14u16	Button14u16	3	SLIDER	X Axis	0	1.0	0.0
+B1	Button1	1	BUTTON	Button 0	0	0.0	0.0
+B2	Button2	1	BUTTON	Button 1	0	0.0	0.0
+B3	Button3	1	BUTTON	Button 2	0	0.0	0.0
+B4	Button4	1	BUTTON	Button 3	0	0.0	0.0
+B5	Button5	1	BUTTON	Button 4	0	0.0	0.0
+B6	Button6	1	BUTTON	Button 5	0	0.0	0.0
+B7	Button7	1	BUTTON	Button 6	0	0.0	0.0
+B8	Button8	1	BUTTON	Button 7	0	0.0	0.0
+B9	Button9	1	BUTTON	Button 8	0	0.0	0.0
+B10	Button10	1	BUTTON	Button 9	0	0.0	0.0
+B11	Button11	1	BUTTON	Button 10	0	0.0	0.0
+B12	Button12	1	BUTTON	Button 11	0	0.0	0.0
